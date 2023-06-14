@@ -1,4 +1,4 @@
-variable = "Hola mundo2!"
+variable = "Hola mundo!"
 
 print(variable)
 
